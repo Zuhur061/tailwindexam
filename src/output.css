@@ -408,6 +408,9 @@
   .overflow-hidden {
     overflow: hidden;
   }
+  .rounded-2xl {
+    border-radius: var(--radius-2xl);
+  }
   .rounded-3xl {
     border-radius: var(--radius-3xl);
   }
@@ -436,6 +439,9 @@
   }
   .bg-\[\#327c69\] {
     background-color: #327c69;
+  }
+  .bg-\[\#A2BE95\] {
+    background-color: #A2BE95;
   }
   .bg-\[\#EAF2F5\] {
     background-color: #EAF2F5;
